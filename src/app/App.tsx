@@ -647,13 +647,17 @@ function Projects() {
                 ))}
               </div>
 
-              <a
-                href={p.github}
-                className="inline-flex items-center gap-2 text-sm font-medium mt-1 transition-colors duration-150"
-                style={{ color: p.accent, fontFamily: "'Inter', sans-serif" }}
-              >
-                <Github size={14} /> GitHub <ExternalLink size={12} />
-              </a>
+              {p.github && (
+                <a
+                  href={p.github}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 text-sm font-medium mt-1 transition-colors duration-150"
+                  style={{ color: p.accent, fontFamily: "'Inter', sans-serif" }}
+                >
+                  <Github size={14} /> GitHub <ExternalLink size={12} />
+                </a>
+              )}
             </div>
           ))}
         </div>
