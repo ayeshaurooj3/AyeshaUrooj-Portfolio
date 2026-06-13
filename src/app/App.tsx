@@ -578,7 +578,7 @@ const projects = [
     stack: ["PHP", "MySQL", "HTML/CSS", "JavaScript"],
     metric: "Full-stack",
     metricLabel: "production health platform",
-    github: "https://github.com/ayeshaurooj3/CareLink-E-Pharmacy",
+    github: "https://github.com/ayeshaurooj3/CareLink",
     accent: C.secondary,
   },
 ];
