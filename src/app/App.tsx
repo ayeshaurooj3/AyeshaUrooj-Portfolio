@@ -541,7 +541,6 @@ const projects = [
     stack: ["TensorFlow", "Keras", "Flask", "REST API"],
     metric: "90%+",
     metricLabel: "across 12 diseases",
-    github: "#",
     accent: C.secondary,
   },
   {
@@ -551,7 +550,7 @@ const projects = [
     stack: ["scikit-learn", "Python", "Flask", "XGBoost"],
     metric: "90%+",
     metricLabel: "prediction accuracy",
-    github: "#",
+    github: "https://github.com/ayeshaurooj3/FYP-16-DiagnomiX-AI",
     accent: C.accent,
   },
   {
@@ -561,7 +560,6 @@ const projects = [
     stack: ["Keras", "CNN", "NumPy", "Matplotlib"],
     metric: "91% accuracy",
     metricLabel: "on 3,000+ images",
-    github: "#",
     accent: C.secondary,
   },
   {
@@ -571,7 +569,6 @@ const projects = [
     stack: ["PyTorch", "DCGAN", "Python", "NumPy"],
     metric: "+12% accuracy",
     metricLabel: "lift via 10K+ synth images",
-    github: "#",
     accent: C.accent,
   },
   {
@@ -581,7 +578,7 @@ const projects = [
     stack: ["PHP", "MySQL", "HTML/CSS", "JavaScript"],
     metric: "Full-stack",
     metricLabel: "production health platform",
-    github: "#",
+    github: "https://github.com/ayeshaurooj3/CareLink-E-Pharmacy",
     accent: C.secondary,
   },
 ];
