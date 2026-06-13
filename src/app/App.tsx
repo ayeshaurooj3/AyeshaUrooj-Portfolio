@@ -540,6 +540,7 @@ const projects = [
     stack: ["TensorFlow", "Keras", "Flask", "REST API"],
     metric: "90%+",
     metricLabel: "across 12 diseases",
+    github: "https://github.com/ayeshaurooj3/Vet-Vision",
     accent: C.secondary,
   },
   {
