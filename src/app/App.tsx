@@ -266,7 +266,7 @@ function About() {
           <div>
             <p className="text-base leading-relaxed mb-5" style={{ color: C.muted, fontFamily: "'Inter', sans-serif" }}>
               Ayesha Urooj is a Computer Science graduate from Superior University Lahore,
-              where she earned a perfect 4.0 CGPA and the Gold Medal — outcomes driven by
+              where she earned a 4.0 CGPA and the Gold Medal — outcomes driven by
               shipping real systems, not just acing exams.
             </p>
             <p className="text-base leading-relaxed mb-5" style={{ color: C.muted, fontFamily: "'Inter', sans-serif" }}>
