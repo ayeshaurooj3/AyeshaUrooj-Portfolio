@@ -531,7 +531,6 @@ const projects = [
     stack: ["YOLOv8", "Mask R-CNN", "PyTorch", "OpenCV"],
     metric: "94% mAP",
     metricLabel: "detection accuracy",
-    github: "#",
     accent: C.accent,
   },
   {
